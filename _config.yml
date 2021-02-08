@@ -6,7 +6,7 @@ theme_custom: indigo-white # the name of your theme, e.g. gree-white, gray-white
 theme_name_background: false # the name of your background image (keep false value if you don't want background image), e.g. bg
 theme_extension_background: png # the extension name of your background file, e.g. png
 author: Rolly # the name of author, show in the home page "Hello, I'm *author*" and seo.
-description: &description Software Engineer, Traveller, Etc. # description for seo.
+description: &description Software Engineer, Full Stack Developer, DevOps, Pentester, Bug & Security Research At Night| Sexy-AllpAcks Teams, Freelancer, Tech Fan, IOTinkerist, Traveller, Clean Code, Roller Fanatic # description for seo.
 tagline: *description
 twitter:
   username: pwnakil # your user of twitter account.
